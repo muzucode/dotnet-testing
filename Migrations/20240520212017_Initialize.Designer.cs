@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Healthcare_API.Migrations
 {
     [DbContext(typeof(HealthcareContext))]
-    [Migration("20240520211505_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20240520212017_Initialize")]
+    partial class Initialize
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

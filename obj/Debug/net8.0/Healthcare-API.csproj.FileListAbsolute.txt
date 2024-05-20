@@ -126,3 +126,4 @@
 /Users/sean/Documents/Coding/C#/Healthcare-API/obj/Debug/net8.0/Healthcare-API.pdb
 /Users/sean/Documents/Coding/C#/Healthcare-API/obj/Debug/net8.0/Healthcare-API.genruntimeconfig.cache
 /Users/sean/Documents/Coding/C#/Healthcare-API/obj/Debug/net8.0/ref/Healthcare-API.dll
+/Users/sean/Documents/Coding/C#/Healthcare-API/obj/Debug/net8.0/Healthcare-API.sourcelink.json
